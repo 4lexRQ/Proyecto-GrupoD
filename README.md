@@ -9,7 +9,7 @@
 - Rivera Quiroz Alexander
 
 ## Tema de Proyecto
-**Sistema de recaudación de impuesto a propietarios de vehículos**
+#### Sistema de recaudación de impuesto a propietarios de vehículos
 
 ## Tecnologías
 ### Base de datos
