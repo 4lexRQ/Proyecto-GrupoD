@@ -13,7 +13,7 @@
 
 ## Tecnologías
 ### Base de datos
-> - MySql
+> - MySql\
 > Gestor de Base de datos que se encargará de guardar la información de las entidades del proyecto
 ### Backend
 - SpringBoot (Framework Java)
