@@ -9,7 +9,7 @@
 - Rivera Quiroz Alexander
 
 ## Tema de Proyecto
-#### Software de recaudación de impuesto a propietarios de vehículos
+Software de recaudación de impuesto a propietarios de vehículos
 
 ## Tecnologías
 ### Base de datos
@@ -17,3 +17,6 @@
 ### Backend
 - SpringBoot (Framework Java)
 > Con SpringBoot se crea la Api
+
+
+<h2>Hola</h2>
