@@ -19,4 +19,4 @@ Software de recaudación de impuesto a propietarios de vehículos
 > Con SpringBoot se crea la Api
 
 
-<h2>Hola</h2>
+<h2 style="color: red;">Hola</h2>
