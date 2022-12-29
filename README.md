@@ -7,3 +7,13 @@
 - Franco Vera José
 - Morales Moreira Carolina
 - Rivera Quiroz Alexander
+
+## Tema de Proyecto
+### Software de recaudación de impuesto a propietarios de vehículos
+
+## Tecnologías
+### Base de datos
+- MySql
+### Backend
+- SpringBoot (Framework Java)
+> Con SpringBoot se crea la Api
