@@ -12,6 +12,10 @@
 #### Sistema de recaudación de impuesto a propietarios de vehículos
 
 ## Tecnologías
+### Base de datos
+- MySql
+> Sistema gestor de base de datos del proyecto.
+
 ### BackEnd - FrontEnd
 - Java
 > Uso de la paquetería Ant para la creación del codigo y sus respectivas interfaces gráficas.
